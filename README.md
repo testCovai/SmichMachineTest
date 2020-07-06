@@ -1,5 +1,7 @@
 # SmichMachineTest
 
+Android Multicast DNS Resolution in the local network
+
 This is for 2nd level interview
 
 Following step to run execute and test this application
