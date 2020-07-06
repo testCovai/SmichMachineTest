@@ -1,6 +1,7 @@
 # SmichMachineTest
-This is for 2nd level interview 
-This app is multicast DNS resolution in android local network creating app.
+
+This is for 2nd level interview
+
 Following step to run execute and test this application
 1) Clone apllication from this repo uing your IDE - Android Studio
 2) Install the build in multiple android device.
