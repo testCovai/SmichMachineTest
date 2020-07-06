@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MachineTest</string>
+    <string name="btn_name_publish">PUBLIC</string>
+    <string name="btn_name_scan">SCAN</string>
+</resources>
